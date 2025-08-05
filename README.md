@@ -80,7 +80,7 @@ FUTURE_DS_01/
 
 ## 📺 Project Demo
 
-> [Click here to watch the video walkthrough](#) *(Replace with your actual YouTube or Google Drive link)*
+> [Click here to watch the video walkthrough](https://youtu.be/bSPTXdDCn7o) 
 
 ---
 
@@ -88,7 +88,7 @@ FUTURE_DS_01/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/FUTURE_DS_01.git
+   git clone https://github.com/Sholycul/FUTURE_DS_01.git
    ```
 2. Open the `.pbix` file in Power BI Desktop.
 3. Use the filters to explore insights by **year**, **region**, and **category**.
@@ -97,7 +97,7 @@ FUTURE_DS_01/
 
 ## 📋 Dataset Information
 
-- **Source**: [Superstore Dataset](https://community.tableau.com/s/downloads)  
+- **Source**: [Superstore Dataset](https://www.kaggle.com/datasets/mohamed38/superstoredataset)  
 - **Size**: ~10,000+ sales records  
 - **Columns**: Order ID, Date, Product Category, Region, Segment, Sales, Profit, Quantity, etc.
 
@@ -116,9 +116,9 @@ Based on the dashboard insights, here are some data-driven recommendations:
 
 ## ✍️ Author
 
-**[Your Full Name]**  
+**[Oluwashola Adeleke Iji]**  
 Data Science & Analytics Intern  
-[LinkedIn Profile](#) | [Portfolio Site](#) *(Optional)*
+[LinkedIn Profile](https://www.linkedin.com/in/oluwasholaiji2020/) 
 
 ---
 
